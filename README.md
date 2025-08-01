@@ -63,7 +63,6 @@ You can import contacts by uploading an XML file formatted like this:
 <contacts>
   <contact>
     <name>John Doe</name>
-    <email>john@example.com</email>
     <phone>1234567890</phone>
   </contact>
 </contacts>
